@@ -11,6 +11,3 @@ https://www.kaggle.com/datasets/berkayalan/bank-marketing-data-set
 - Basmala Salama
 - Menna allah Saeed
 - Irinie Magued
-
-## nbviewer
-https://nbviewer.org/github/Menna2002/BankMarketing/blob/master/src/Prediction.ipynb
