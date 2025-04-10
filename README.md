@@ -6,8 +6,8 @@ The classification goal is to predict if the client will subscribe (yes/no) to t
 https://www.kaggle.com/datasets/berkayalan/bank-marketing-data-set
 
 ## Contributors
-- Elham Hamed
-- Menna allah Samy
-- Basmala Salama
-- Menna allah Saeed
-- Irinie Magued
+- [Elham Hamed](https://github.com/elhamhamed)  
+- [Menna Allah Samy](https://github.com/MennaAllahSamy)  
+- [Basmala Salama](https://github.com/llbasmalall)  
+- [Menna Allah Saeed](https://github.com/MennaSaeed22)  
+- [Irinie Magued](https://github.com/IrinieSabry)
